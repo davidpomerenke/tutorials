@@ -31,7 +31,7 @@ institute: ["[linktr.ee/davidpomerenke](https://linktr.ee/davidpomerenke)"]
 
 ![](img/libgen.png){width=90%}
 
-# How to leanr (2/3): Self-study
+# How to learn (2/3): Self-study
 
 ![](img/schedule.png)
 
@@ -112,6 +112,50 @@ institute: ["[linktr.ee/davidpomerenke](https://linktr.ee/davidpomerenke)"]
 # Q & A
 
 [excalidraw](https://excalidraw.com/)
+
+# Q & A
+
+![](img/soundcomplete.png){width=30%}
+
+# Q & A
+
+::: columns
+
+::: column
+![](img/truthtable3.png)
+:::
+
+::: column
+![](img/truthtable4.png)
+:::
+
+:::
+
+# Q & A
+
+::: columns
+
+::: {.column width=60%}
+![](img/truthtable1.png)
+:::
+
+::: {.column width=40%}
+![](img/truthtable2.png)
+:::
+
+:::
+
+# Q & A - Mock exam 2016 (Incognito Wiki) - 3 a)
+
+![](img/mock2016-3a.png){width=70%}
+
+# Q & A - Mock exam 2016 (Incognito Wiki) - 3 b)
+
+![](img/mock2016-3b.png){width=50%}
+
+# Q & A
+
+![](img/naturaldeduction.png){width=40%}
 
 # Quiz
 
