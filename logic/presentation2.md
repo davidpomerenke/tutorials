@@ -38,7 +38,7 @@ Programming paradigms
 
 # What's it all good for? -- Studies
 
-![](img/masterproject.png){width=100%}
+(img/masterproject.png){width=100%}
 
 # What's it all good for? -- Industry
 
@@ -116,6 +116,34 @@ __Symbolic AI [Explainable AI]__ _(vs neural AI)_
 # Q & A
 
 [excalidraw](https://excalidraw.com/)
+
+# Q&A - "Moving in" the negation
+
+![](img/negationmove.png)
+
+# Q&A - Syllogism
+
+![](img/syllogism.png)
+
+# Q&A - (Counter)examples in a semantic tableau
+
+![](img/counterexamples.png)
+
+# Q&A - Proving validity, invalidity, satisfiability in a semantic tableau
+
+![](img/rightleft.png)
+
+# Q&A - Order of rule application in semantic tableaux
+
+![](img/tableau-order.png)
+
+# Q&A - Natural deduction
+
+![](img/mock2016-7a.png)
+
+# Q&A - Examples for the natural deduction rules for predicate logic
+
+![](img/nd-pl-examples.png)
 
 # Quiz
 
