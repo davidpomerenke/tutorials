@@ -137,7 +137,7 @@ __Symbolic AI [Explainable AI]__ _(vs neural AI)_
 
 ![](img/tableau-order.png)
 
-# Q&A - Natural deduction
+# Q&A - Mock exam 2016 (Incognito Wiki) - 7 a)
 
 ![](img/mock2016-7a.png)
 
